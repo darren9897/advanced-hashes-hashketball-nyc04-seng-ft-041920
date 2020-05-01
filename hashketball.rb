@@ -192,16 +192,9 @@ def big_shoe_rebounds
         largest_shoe_size = baller[:shoe]
         number_of_rebounds = baller[:rebounds]
       end
-      
     end
-    
   end
-  
-  
-  
-  
   return number_of_rebounds
-
 end
 
 
